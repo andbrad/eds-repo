@@ -1,2 +1,4 @@
 # eds-repo
-This is a test repo for eco data science, learning github
+This is a test of changes to eco data science, learning GitHub
+
+This is really awesome!
